@@ -1,0 +1,7 @@
+Studenti sortati dupa formatie si nume:
+Student {nrMatricol = 1024, prenume = 'Ioan', nume = 'Mihalcea', formatieDeStudiu = 'ISM141/1'}
+Student {nrMatricol = 1025, prenume = 'Andrei', nume = 'Popa', formatieDeStudiu = 'ISM141/2'}
+Student {nrMatricol = 1026, prenume = 'Anamaria', nume = 'Prodan', formatieDeStudiu = 'TI131/1'}
+Student {nrMatricol = 1026, prenume = 'Bianca', nume = 'Popescu', formatieDeStudiu = 'TI131/2'}
+Student {nrMatricol = 1027, prenume = 'Paul', nume = 'Mohanu', formatieDeStudiu = 'TI132/1'}
+Student {nrMatricol = 1028, prenume = 'Mihai', nume = 'Ionescu', formatieDeStudiu = 'TI132/2'}
