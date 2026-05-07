@@ -36,4 +36,17 @@ public class Student {
     public int hashCode() {
         return Objects.hash(nrMatricol);
     }
+
+    public String getPrenume() {
+        return prenume;
+    }
+    public String getNume() {
+        return nume;
+    }
+    public String getFormatieDeStudiu(){
+        return formatieDeStudiu;
+    }
+    public float getNota(){
+        return nota;
+    }
 }

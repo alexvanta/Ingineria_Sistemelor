@@ -29,4 +29,7 @@ public class StudentBursier extends Student {
     public String toString() {
         return super.toString() + "Cuantum bursa: " + cuantumBursa;
     }
+    public double getCuantumBursa(){
+        return cuantumBursa;
+    }
 }
