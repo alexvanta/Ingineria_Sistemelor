@@ -20,7 +20,7 @@ public class Main {
                 String[] parti = linie.split(",");
                 if(parti.length >= 4){
                     int nrMat = Integer.parseInt(parti[0].trim());
-                    mapStudenti.put(nrMat, new Student(nrMat,parti[1].trim(), parti[2].trim(), parti[3].trim()));
+                    mapStudenti.put(nrMat, new Student(nrMat, parti[1].trim(), parti[2].trim(), parti[3].trim()));
                 }
             }
             if(Files.exists(notesPath)){
